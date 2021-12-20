@@ -1,0 +1,104 @@
+{
+  "movie": [
+    {
+      "title": "Life after life",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem beatae accusamus vel sunt! Temporibus nesciunt omnis ipsa architecto error, doloribus corporis. Aut maxime, nihil harum ullam neque obcaecati deserunt consequuntur?Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem beatae accusamus vel sunt! Temporibus nesciunt omnis ipsa architecto error, doloribus corporis. Aut maxime, nihil harum ullam neque obcaecati deserunt consequuntur?Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem beatae accusamus vel sunt! Temporibus nesciunt omnis ipsa architecto error, doloribus corporis. Aut maxime, nihil harum ullam neque obcaecati deserunt consequuntur?",
+      "id": 1,
+      "producer": " Balamage",
+      "image": "https://images.hdqwalls.com/download/aquaman-movie-2018-l0-1920x1080.jpg"
+    },
+    {
+      "title": "Aftermath",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem beatae accusamus vel sunt! Temporibus nesciunt omnis ipsa architecto error, doloribus corporis. Aut maxime, nihil harum ullam neque obcaecati deserunt consequuntur?Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem beatae accusamus vel sunt! Temporibus nesciunt omnis ipsa architecto error, doloribus corporis. Aut maxime, nihil harum ullam neque obcaecati deserunt consequuntur?Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem beatae accusamus vel sunt! Temporibus nesciunt omnis ipsa architecto error, doloribus corporis. Aut maxime, nihil harum ullam neque obcaecati deserunt consequuntur?",
+      "id": 2,
+      "producer": " Junior",
+      "image": "https://images.hdqwalls.com/download/jason-momoa-in-aquaman-movie-il-1920x1080.jpg"
+    },
+    {
+      "title": "Downstairs",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem beatae accusamus vel sunt! Temporibus nesciunt omnis ipsa architecto error, doloribus corporis. Aut maxime, nihil harum ullam neque obcaecati deserunt consequuntur?Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem beatae accusamus vel sunt! Temporibus nesciunt omnis ipsa architecto error, doloribus corporis. Aut maxime, nihil harum ullam neque obcaecati deserunt consequuntur?Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem beatae accusamus vel sunt! Temporibus nesciunt omnis ipsa architecto error, doloribus corporis. Aut maxime, nihil harum ullam neque obcaecati deserunt consequuntur?",
+      "id": 3,
+      "producer": " Balibonera",
+      "image": "https://images.hdqwalls.com/download/braven-jason-momoa-2018-4k-kd-1920x1080.jpg"
+    },
+    {
+      "title": "heartbreak",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem beatae accusamus vel sunt! Temporibus nesciunt omnis ipsa architecto error, doloribus corporis. Aut maxime, nihil harum ullam neque obcaecati deserunt consequuntur?Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem beatae accusamus vel sunt! Temporibus nesciunt omnis ipsa architecto error, doloribus corporis. Aut maxime, nihil harum ullam neque obcaecati deserunt consequuntur?Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem beatae accusamus vel sunt! Temporibus nesciunt omnis ipsa architecto error, doloribus corporis. Aut maxime, nihil harum ullam neque obcaecati deserunt consequuntur?",
+      "id": 4,
+      "producer": " BrainGhost",
+      "image": "https://images.hdqwalls.com/download/aquaman-movie-official-poster-3d-1920x1080.jpg"
+    },
+    {
+      "title": "The normal life",
+      "description": "The stranger claims the girl has been seen committing several crimes by a lot of eye witnesses, but this person claims to know it was an imposter, an exact look-a-like, and offers a way out of what will undoubtedly be a very tricky situation. Suspicious of this situation, but somewhat trusting of this stranger, the girl somewhat reluctantly agrees to the proposal, it's probably best to get to the bottom of this as soon as possible.\n\nBut what if this stranger is just a crazy person. Or what if somebody is orchestrating all of this. How could an ordinary girl be this lucky, or unlucky, depending on the turnout. We're about to find out.",
+      "producer": "Junior",
+      "id": 6,
+      "image": "/img/image1.jpg"
+    },
+    {
+      "title": "The peaceful life",
+      "description": "The strange boy claims the young girl is in for a fun day. A new casino opened up in town and is giving everybody a free roll on their slot machine, with a little luck who knows what could happen. Distrusful of both this situation and of this strange boy, the young girl oddly enthusiastically agrees to the proposal, no matter what, something has to be done in this situation, hopefully this was the right choice.\n\nBut what if this strange boy cannot be relied upon. Or what if the complete opposite is true. How could an ordinary young girl find out what's happening without help. We're about to find out.",
+      "producer": "Balibonera",
+      "image": "/img/image4.jpg",
+      "id": 7
+    },
+    {
+      "title": "The relaxed life",
+      "description": "The stranger claims the teenage boy is heir to an incredible fortune, all paperwork has been taken care of already, all there's left to do is sign them. Skeptical of this situation and of this stranger, the teenage boy somewhat hesitantly agrees to the proposal, if anything this will at least speed things up, for better and for worse.\n\nBut what if this stranger is trying to manipulate the situation. Or what if somebody is orchestrating all of this. How could an ordinary teenage boy find out what's happening without help. Time will tell.",
+      "producer": "Brainghost",
+      "image": "/img/image3.jpg",
+      "id": 8
+    },
+    {
+      "title": "The hectic life",
+      "description": "The strange man claims the elderly woman is in for a treat this afternoon. Supposedly this strange person has discovered a way to unlock the hidden potentials of the brain and will show the whole town this afternoon, it's not an event you want to miss. Believing both the situation and this strange man, the elderly woman oddly willingly agrees to the proposal, surely this was the right choice to make, all of this has to have some truth to it.\n\nBut what if this strange man is just a crazy person. Or what if this is all far bigger than what has been told. How could an ordinary elderly woman be this important to the situation. Only one way to find out.",
+      "producer": "Balibonera",
+      "image": "/img/image2.jpg",
+      "id": 9
+    }
+  ],
+  "musician": [
+    {
+      "name": "Chris Brown",
+      "DOB": "born May 5, 1989",
+      "details": "Christopher Maurice Brown  is an American singer, songwriter, dancer, record producer, actor and graffiti artist. According to Billboard, Brown is one of the most influential and successful R&B singers ever,[2][3] with several considering him the King of R&B alongside Usher and R. Kelly. His musical style has been defined as polyhedric, with his R&B being characterized by several influences from other genres, mainly hip hop and pop music.",
+      "image": "/img/Chris.jpg",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Rihanna",
+      "DOB": "February 20, 1988",
+      "details": "Robyn Rihanna Fenty,  is a Barbadian singer, actress, fashion designer, and businesswoman. Born in Saint Michael and raised in Bridgetown, Barbados, Rihanna was discovered by American record producer Evan Rogers who invited her to the United States to record demo tapes. After signing with Def Jam in 2005, she soon gained recognition with the release of her first two studio albums, Music of the Sun (2005) and A Girl Like Me (2006), both of which were influenced by Caribbean music and peaked within the top ten of the US Billboard 200 chart.",
+      "image": "/img/Rihanna_Fenty.png"
+    },
+    {
+      "id": 3,
+      "name": "Nicky minaj",
+      "DOB": "December 8, 1982",
+      "details": "Onika Tanya Maraj-Petty (born December 8, 1982, known professionally as Nicki Minaj , is a Trinidadian-born rapper, singer, and songwriter. She is known for her animated flow in her rapping and versatility as a recording artist.Born in the Saint James district of Port of Spain, Trinidad and Tobago and raised in Queens of New York City, she gained public recognition after releasing the mixtapes Playtime Is Over , Sucka Free , and Beam Me Up Scotty (2009). Early in her career, Minaj became known for her colorful costumes and wigs, her distinct flow, and the use of alter egos and accents, primarily British cockney. ",
+      "image": "/img/Nicki_Minaj.png"
+    },
+    {
+      "id": 4,
+      "name": "Jason Derulo",
+      "DOB": "September 21, 1989",
+      "details": "Derulo released his second single, In My Head, in December 2009 and his debut studio album, Jason Derulo, followed on March 2, 2010. He released his second album, Future History, on September 16, 2011; the album was preceded by the release of the UK number-one single Don't Wanna Go Home. Derulo's third international album, Tattoos, was released on September 24, 2013, and later repackaged as his third U.S. album, Talk Dirty, released on April 15, 2014. In 2015, Derulo released his single Want to Want Me and announced his fourth studio album, Everything Is 4, which was released on June 2, 2015.",
+      "image": "/img/Jason_Derulo.png"
+    },
+    {
+      "id": 5,
+      "name": "Nicky minaj",
+      "DOB": "December 8, 1982",
+      "details": "Onika Tanya Maraj-Petty (born December 8, 1982, known professionally as Nicki Minaj , is a Trinidadian-born rapper, singer, and songwriter. She is known for her animated flow in her rapping and versatility as a recording artist.Born in the Saint James district of Port of Spain, Trinidad and Tobago and raised in Queens of New York City, she gained public recognition after releasing the mixtapes Playtime Is Over , Sucka Free , and Beam Me Up Scotty (2009). Early in her career, Minaj became known for her colorful costumes and wigs, her distinct flow, and the use of alter egos and accents, primarily British cockney. ",
+      "image": "/img/Nicki_Minaj.png"
+    },
+    {
+      "id": 6,
+      "name": "Jason Derulo",
+      "DOB": "September 21, 1989",
+      "details": "Derulo released his second single, In My Head, in December 2009 and his debut studio album, Jason Derulo, followed on March 2, 2010. He released his second album, Future History, on September 16, 2011; the album was preceded by the release of the UK number-one single Don't Wanna Go Home. Derulo's third international album, Tattoos, was released on September 24, 2013, and later repackaged as his third U.S. album, Talk Dirty, released on April 15, 2014. In 2015, Derulo released his single Want to Want Me and announced his fourth studio album, Everything Is 4, which was released on June 2, 2015.",
+      "image": "/img/Jason_Derulo.png"
+    }
+  ]
+}
